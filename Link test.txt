@@ -1,0 +1,201 @@
+﻿#EXTM3U
+#EXTINF:-1, Vĩnh Long 1 S1
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1, Vĩnh Long 1 S2
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1768484650?profile=pass
+#EXTINF:-1, Tây Ninh
+https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+#EXTINF:-1, VTV2
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1288826050?profile=pass
+#EXTINF:-1, VTV5
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/970400150?profile=pass
+#EXTINF:-1, VTV5 TNB
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1007662270?profile=pass
+#EXTINF:-1, VTV7
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/37254394?profile=pass
+#EXTINF:-1, VTV9
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1384582423?profile=pass
+#EXTINF:-1, VTV Cần Thơ
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/617351154?profile=pass
+#EXTINF:-1, ON Sports
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/190347876?profile=pass
+#EXTINF:-1, ON Sports News
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/141914386?profile=pass
+#EXTINF:-1, ON Football
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1800116333?profile=pass
+#EXTINF:-1, HTV1
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/676650533?profile=pass
+#EXTINF:-1, HTV3
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1191895758?profile=pass
+#EXTINF:-1, HTV Key
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/152021746?profile=pass
+#EXTINF:-1, HTV7
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/877766804?profile=pass
+#EXTINF:-1, HTV9
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1970019773?profile=pass
+#EXTINF:-1, HTV TT
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/236851444?profile=pass
+#EXTINF:-1, Mytv 1
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/821075216?profile=pass
+#EXTINF:-1, Mytv 2
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/625618517?profile=pass
+#EXTINF:-1, Mytv 3
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1846924562?profile=pass
+#EXTINF:-1, Mytv 4
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1431374693?profile=pass
+#EXTINF:-1, TV360+10
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/2058213078?profile=pass
+#EXTINF:-1, TV360+11
+http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/204529811?profile=pass
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 1
+https://event.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 2
+https://event.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 3
+https://event.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 4
+https://event.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 5
+https://event.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 6
+https://event.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 7
+https://event.fptplay53.net/epzch1/thethao07_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 8
+https://event.fptplay53.net/epzch1/thethao08_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 9
+https://event.fptplay53.net/epzch1/thethao09_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 10
+https://event.fptplay53.net/epzch1/thethao10_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1, 1
+https://www.googleapis.com/drive/v3/files/1ihaz-K4c0PlnHKk_TiLi59VsfRfJbt3b?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 2
+https://www.googleapis.com/drive/v3/files/13ouLs4ByTKqeSLE0bc57M_I8N4_1QkeK?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 3
+https://www.googleapis.com/drive/v3/files/17bbnj5-OsBqrJATq4tQ9I8qO5EB-DhKS?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 4
+https://www.googleapis.com/drive/v3/files/1fnDapL8OgGIwv__tpy96_0tAiMjZN7yB?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 5
+https://www.googleapis.com/drive/v3/files/1DFBytSNzqNsBWe50qvBMGVET3WIvz6wr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 6
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 7
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 8
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 9
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 10
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 11
+https://www.googleapis.com/drive/v3/files/1q_zFRCAqwQe-TqyEOlHPQqpip5v4bxkI?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 12
+https://www.googleapis.com/drive/v3/files/1V-M57lgAxO1OQTQZWEcq3B4g9g2p-8wh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 13
+https://www.googleapis.com/drive/v3/files/1ki9nWlyvGLAsy2hlbPaTOqcclwp5ntVr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 14
+https://www.googleapis.com/drive/v3/files/1zVjkONvtd2nkvFCppqxSUGN9HOdWnHAa?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 15
+https://www.googleapis.com/drive/v3/files/1jnK02GWUteih00slthE0fdg21C5XRRv1?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 16
+https://www.googleapis.com/drive/v3/files/1hPDMg47jNAswv_FkpKfrL2M5HVb7E5Xf?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 17
+https://www.googleapis.com/drive/v3/files/1yTKdCVYli2uEkZyegAsUYuAm2V1_NseN?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 18
+https://www.googleapis.com/drive/v3/files/1BcrhawlQPAbirEG-unO9oX5PjFS4XpRh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 19
+https://www.googleapis.com/drive/v3/files/1m3Zun0RH61kUjMZQWbeKGgbnGJYznQiF?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 20
+https://www.googleapis.com/drive/v3/files/1G-mt4nc7mvenPXrWjln9sYdpL5RVZ9oo?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 21
+https://www.googleapis.com/drive/v3/files/176UquBWVwYeJbYewnQRuw8i7OO05m6i1?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 22
+https://www.googleapis.com/drive/v3/files/1fr7clQEaOHPfl4IEVaFWe_d8rQ_0crbu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 23
+https://www.googleapis.com/drive/v3/files/1vrl_2hHuLnwFXDp2dQS3i3J3rQN_N6N9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 24
+https://www.googleapis.com/drive/v3/files/1MpdhcS_Ta4RwFSJhpOO0ctrmv24Y6Cya&authuser=0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 25
+https://www.googleapis.com/drive/v3/files/1taSAEe5ZnODWINYJ2yUap9wJnhzCzyM4&authuser=0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 26
+https://www.googleapis.com/drive/v3/files/1cviPL3ywQdtOuK1-HHCN29paO3aU3NVu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 27
+https://www.googleapis.com/drive/v3/files/1YIlcFCwEbB7J0lc3OZxQJBcfbdU0mV2v?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 28
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 29
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 30
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 31
+https://www.googleapis.com/drive/v3/files/1LkGTYPGltAHfaGZ7ph5nR_GjbJt0TfbM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 32
+https://www.googleapis.com/drive/v3/files/1jcGArYMypXgPHksSRHBpZzhG_axENvI5?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 33
+https://www.googleapis.com/drive/v3/files/1RRLEnld9XRb_VSA22ElMUpDFYC5vmKqU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 34
+https://www.googleapis.com/drive/v3/files/1dI4yE9mDarZrUzuyQe5Y3U3BkQm_xnkD?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 35
+https://www.googleapis.com/drive/v3/files/1NmiZmKpcYAjMG_UISAxLqvrfmu-v9orO?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 36
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 37
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 38
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 39
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 40
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 41
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 42
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 43
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 44
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 45
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 46
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 47
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 48
+https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 49
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 50
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 51
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 52
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 53
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 54
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 55
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 56
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 57
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 58
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 59
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 60
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 61
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 62
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 63
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 64
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 65
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1, 66
+https://www.googleapis.com/drive/v3/files/17emm5hd238q-Ed9LcZcaBoj3gB_-nBjb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
