@@ -1,40 +1,28 @@
 ﻿#EXTM3U
-#EXTINF:-1, Vĩnh Long 1 S1
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1, Vĩnh Long 1 S2
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1768484650?profile=pass
+#EXTINF:-1, Vĩnh Long 1
+https://live-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, Tây Ninh
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1, VTV2
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1288826050?profile=pass
+https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1, VTV3
+https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV5
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/970400150?profile=pass
+https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV5 TNB
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1007662270?profile=pass
+https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1, VTV6
+https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV7
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/37254394?profile=pass
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV9
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1384582423?profile=pass
-#EXTINF:-1, VTV Cần Thơ
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/617351154?profile=pass
-#EXTINF:-1, ON Sports
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/190347876?profile=pass
-#EXTINF:-1, ON Sports News
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/141914386?profile=pass
-#EXTINF:-1, ON Football
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1800116333?profile=pass
-#EXTINF:-1, HTV1
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/676650533?profile=pass
-#EXTINF:-1, HTV3
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1191895758?profile=pass
-#EXTINF:-1, HTV Key
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/152021746?profile=pass
+https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1, VTV10
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, HTV7
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/877766804?profile=pass
+https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, HTV9
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1970019773?profile=pass
-#EXTINF:-1, HTV TT
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/236851444?profile=pass
+https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, Mytv 1
 http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/821075216?profile=pass
 #EXTINF:-1, Mytv 2
@@ -43,30 +31,60 @@ http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/625618517?profile=pass
 http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1846924562?profile=pass
 #EXTINF:-1, Mytv 4
 http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/1431374693?profile=pass
-#EXTINF:-1, TV360+10
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/2058213078?profile=pass
-#EXTINF:-1, TV360+11
-http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/204529811?profile=pass
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 1
-https://event.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 2
-https://event.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 3
-https://event.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 4
-https://event.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 5
-https://event.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 6
-https://event.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 7
-https://event.fptplay53.net/epzch1/thethao07_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 8
-https://event.fptplay53.net/epzch1/thethao08_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 9
-https://event.fptplay53.net/epzch1/thethao09_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 type="stream" channelId="-1", FPT Thể Thao 10
-https://event.fptplay53.net/epzch1/thethao10_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1, On Sport
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
+#EXTINF:-1, On Sport Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
+#EXTINF:-1, On Football
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
+#EXTINF:-1, On Sport News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
+#EXTINF:-1, On Goff's
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
+#EXTINF:-1, TV360 Live
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 5
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 7
+https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 8
+https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 9
+https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FPT Sự Kiện 10
+https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVB
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1, 1
 https://www.googleapis.com/drive/v3/files/1ihaz-K4c0PlnHKk_TiLi59VsfRfJbt3b?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1, 2
