@@ -1,30 +1,28 @@
 ﻿#EXTM3U
 #EXTINF:-1, Vĩnh Long 1
-https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, Tây Ninh
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1, VTV2
-https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV3
-https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV5
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV5 TNB
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV6
-https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV7
-https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV9
-https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, VTV10
-https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, HTV7
 https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, HTV9
 https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1, HTV Thể Thao
-https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1, Mytv 1
 http://anhtvc:123@hoatv001.ddns.net:9981/stream/channelid/821075216?profile=pass
 #EXTINF:-1, Mytv 2
@@ -108,25 +106,25 @@ https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=
 #EXTINF:-1, 10
 https://www.googleapis.com/drive/v3/files/1OhsVFyVqNztc-e7SnoDT3zK5jQxHyS3N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1, 11
-https://www.googleapis.com/drive/v3/files/1q_zFRCAqwQe-TqyEOlHPQqpip5v4bxkI?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260713/7CPIZBlE/3500kb/hls/index.m3u8
 #EXTINF:-1, 12
-https://www.googleapis.com/drive/v3/files/1V-M57lgAxO1OQTQZWEcq3B4g9g2p-8wh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260715/cyTSzqOy/3500kb/hls/index.m3u8
 #EXTINF:-1, 13
-https://www.googleapis.com/drive/v3/files/1ki9nWlyvGLAsy2hlbPaTOqcclwp5ntVr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260715/T3QeijXW/3500kb/hls/index.m3u8
 #EXTINF:-1, 14
-https://www.googleapis.com/drive/v3/files/1zVjkONvtd2nkvFCppqxSUGN9HOdWnHAa?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260716/MQNZt4UR/3500kb/hls/index.m3u8
 #EXTINF:-1, 15
-https://www.googleapis.com/drive/v3/files/1jnK02GWUteih00slthE0fdg21C5XRRv1?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260717/CxMMycuK/3500kb/hls/index.m3u8
 #EXTINF:-1, 16
-https://www.googleapis.com/drive/v3/files/1hPDMg47jNAswv_FkpKfrL2M5HVb7E5Xf?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260720/UCo1toF7/3500kb/hls/index.m3u8
 #EXTINF:-1, 17
-https://www.googleapis.com/drive/v3/files/1yTKdCVYli2uEkZyegAsUYuAm2V1_NseN?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260723/ejpkSshc/3500kb/hls/index.m3u8
 #EXTINF:-1, 18
-https://www.googleapis.com/drive/v3/files/1BcrhawlQPAbirEG-unO9oX5PjFS4XpRh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260723/4ojmpbdV/3500kb/hls/index.m3u8
 #EXTINF:-1, 19
-https://www.googleapis.com/drive/v3/files/1m3Zun0RH61kUjMZQWbeKGgbnGJYznQiF?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260723/tjG2p3hw/3500kb/hls/index.m3u8
 #EXTINF:-1, 20
-https://www.googleapis.com/drive/v3/files/1G-mt4nc7mvenPXrWjln9sYdpL5RVZ9oo?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260725/1XkVTnvz/3500kb/hls/index.m3u8
 #EXTINF:-1, 21
 https://www.googleapis.com/drive/v3/files/176UquBWVwYeJbYewnQRuw8i7OO05m6i1?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1, 22
