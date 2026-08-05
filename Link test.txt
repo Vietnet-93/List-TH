@@ -132,15 +132,15 @@ https://v7.kkphimplayer7.com/20260723/tjG2p3hw/3500kb/hls/index.m3u8
 #EXTINF:-1, 20
 https://v7.kkphimplayer7.com/20260725/1XkVTnvz/3500kb/hls/index.m3u8
 #EXTINF:-1, 21
-https://www.googleapis.com/drive/v3/files/176UquBWVwYeJbYewnQRuw8i7OO05m6i1?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260727/jpjTBEnE/3500kb/hls/index.m3u8
 #EXTINF:-1, 22
-https://www.googleapis.com/drive/v3/files/1fr7clQEaOHPfl4IEVaFWe_d8rQ_0crbu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260729/YwzUrVto/3500kb/hls/index.m3u8
 #EXTINF:-1, 23
-https://www.googleapis.com/drive/v3/files/1vrl_2hHuLnwFXDp2dQS3i3J3rQN_N6N9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260729/HTziTsYW/3500kb/hls/index.m3u8
 #EXTINF:-1, 24
-https://www.googleapis.com/drive/v3/files/1MpdhcS_Ta4RwFSJhpOO0ctrmv24Y6Cya&authuser=0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260730/bPks2l0e/3500kb/hls/index.m3u8
 #EXTINF:-1, 25
-https://www.googleapis.com/drive/v3/files/1taSAEe5ZnODWINYJ2yUap9wJnhzCzyM4&authuser=0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260803/WvMFQbWj/3500kb/hls/index.m3u8
 #EXTINF:-1, 26
 https://www.googleapis.com/drive/v3/files/1cviPL3ywQdtOuK1-HHCN29paO3aU3NVu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1, 27
