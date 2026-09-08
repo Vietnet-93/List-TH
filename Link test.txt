@@ -92,7 +92,7 @@ https://live.fptplay53.net/live/media/event-13/hls_avc_v6/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVB
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1, 1
-https://www.googleapis.com/drive/v3/files/1ihaz-K4c0PlnHKk_TiLi59VsfRfJbt3b?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://v7.kkphimplayer7.com/20260907/XRk1CboU/3500kb/hls/index.m3u8
 #EXTINF:-1, 2
 https://www.googleapis.com/drive/v3/files/13ouLs4ByTKqeSLE0bc57M_I8N4_1QkeK?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1, 3
